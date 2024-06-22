@@ -1,10 +1,12 @@
-# Schaecsn Tap
+# Homebrew Taps
 
-## How do I install these formulae?
+A homebrew tap for John Bradley's classic picture viewer xv. For more about Homebrew, see https://brew.sh.
 
-`brew install schaecsn/tap/<formula>`
+## How do I install xv?
 
-Or `brew tap schaecsn/tap` and then `brew install <formula>`.
+`brew install schaecsn/tap/xv`
+
+Or `brew tap schaecsn/tap` and then `brew install xv`.
 
 ## Documentation
 
