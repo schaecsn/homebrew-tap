@@ -51,15 +51,15 @@ class Xv < Formula
   # they just prepare the context for the webm patch to apply cleanly)
   patch do
     url "https://gitlab.com/DavidGriffith/xv/-/commit/a1d499e9.diff"
-    sha256 "12728f9ea347c9893e8c7b968c7eac7700b4147099529a9881fe817662854def"
+    sha256 "17ecb2e61647a5f4997602e9637a2c4f9ae52917d62115c8a6d0e3a497251a08"
   end
   patch do
     url "https://gitlab.com/DavidGriffith/xv/-/commit/a84406cb.diff"
-    sha256 "9bf5eebe6253ad3b45fc8c66a383cefd81d9a301f94f33263d02d46904de9648"
+    sha256 "d50df26190025a65285aa614ca5b567ce7a4646aa3555706f78ad68bbfa9636e"
   end
   patch do
     url "https://gitlab.com/DavidGriffith/xv/-/commit/5682a07e.diff"
-    sha256 "861cc9bef34fce9df308163f2cca6c0acceed3c1aca807a5e1670d58962d7d5c"
+    sha256 "5b9d7a25e7a9c0e7e0feca104fcf413b61f31af3618a4f623667d75ef18cf154"
   end
 
   # my patches to tweak the look and feel
