@@ -1,13 +1,19 @@
 # Homebrew Taps
 
-A homebrew tap for John Bradley's classic picture viewer xv. For more about Homebrew, see https://brew.sh.
+## Homebrew
+
+Homebrew is a package manager for macOS. For more information about homebrew, see https://brew.sh.
+
 
 ## How do I install xv?
 
-`brew install schaecsn/tap/xv`
+A homebrew tap for John Bradley's classic picture viewer xv.
 
-Or `brew tap schaecsn/tap` and then `brew install xv`.
+![xv screenshot](./assets/xv.png)
 
-## Documentation
+To install it, run `brew install schaecsn/tap/xv` or `brew tap schaecsn/tap` followed by `brew install xv`.
+
+
+## Homebrew Documentation
 
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
