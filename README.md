@@ -7,11 +7,11 @@ Homebrew is a package manager for macOS. For more information about homebrew, se
 
 ## How do I install xv?
 
-A homebrew tap for John Bradley's classic picture viewer xv.
+This git repository is a homebrew tap for John Bradley's classic picture viewer xv.
 
 ![xv screenshot](./assets/xv.png)
 
-To install it, run `brew install schaecsn/tap/xv` or `brew tap schaecsn/tap` followed by `brew install xv`.
+To install xv from this git repository, run `brew install schaecsn/tap/xv` or `brew tap schaecsn/tap` followed by `brew install xv`.
 
 
 ## Homebrew Documentation
