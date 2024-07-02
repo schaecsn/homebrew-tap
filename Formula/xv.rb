@@ -47,8 +47,8 @@ class Xv < Formula
     sha256 "62d3e444ca0c4bc8e48a58c81fdc9564b4a5e76e48869e8e1deeb5b2c7b422ef"
   end
 
-  # webm support (the first two patches are strictly speaking not necessary;
-  # they just prepare the context for the webm patch to apply cleanly)
+  # webp support (the first two patches are strictly speaking not necessary;
+  # they just prepare the context for the webp patch to apply cleanly)
   patch do
     url "https://gitlab.com/DavidGriffith/xv/-/commit/a1d499e9.diff"
     sha256 "17ecb2e61647a5f4997602e9637a2c4f9ae52917d62115c8a6d0e3a497251a08"
