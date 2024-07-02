@@ -13,7 +13,7 @@ class Xv < Formula
   depends_on "libxt"
   depends_on "webp"
 
-  # Jumbo patch site http://www.sonic.net/~roelofs/greg_xv.html
+  # Jumbo patch site http://www.gregroelofs.com/greg_xv.html
   # The original jumbo patch is a tar ball. It is hard to convince brew to
   # uncompress two tar balls - the actual tar ball and this tar ball patch.
   # I converted the jumbo patch to two actual patches on corona.crabdance.com.
@@ -29,7 +29,7 @@ class Xv < Formula
   end
   # a further patch from the jumbo patch maintainer a year later
   patch do
-    url "http://www.sonic.net/~roelofs/code/xv-3.10a-enhancements.20070520-20081216.diff"
+    url "http://www.gregroelofs.com/code/xv-3.10a-enhancements.20070520-20081216.diff"
     sha256 "c47aa52b7dbf2e09896d3eba6411d78a56162a4b966197e40115c14d88c2e1eb"
   end
 
